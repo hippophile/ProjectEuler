@@ -1,2 +1,2 @@
-# DropShiping
-DROP THE SHIP RIGHT NOW!YEAAAH
+Me myself and I 
+Pen math and my screen
