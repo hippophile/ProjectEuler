@@ -29,7 +29,7 @@ int main(void)
       oldtmp = tmp;
     }
   }
-  printf("Problem 14 Answer: %ld\n", answer);
+  printf(" %ld\n", answer);
   
   return 0;
 }
